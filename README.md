@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @martinarobyculasso
-- 📕 I'm an advanced Mechatronics Engineering student that loves to code.
-- 🌱 I’m currently learning _Data Analytics with Python_ and I will be uploading my projects here.
+- 📕 I'm an advanced Mechatronics Engineering student who loves to code.
 
 <!---
 martinarobyculasso/martinarobyculasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
