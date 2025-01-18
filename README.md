@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @martinarobyculasso
-- 📕 I'm an advanced Mechatronics Engineering student who loves to code.
+- 👋 Hi, I’m @martinarobyculasso (Marti)!
+- 🤖 I'm an advanced Mechatronics Engineering student
+- 📕 Universidad Nacional de Cuyo
 
 <!---
 martinarobyculasso/martinarobyculasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
