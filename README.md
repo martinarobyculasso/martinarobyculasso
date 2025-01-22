@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @martinarobyculasso (Marti)!
-- 🤖 I'm an advanced Mechatronics Engineering student
-- 📕 Universidad Nacional de Cuyo
+Estudiante avanzada de Ingeniería en Mecatrónica en la Universidad Nacional de Cuyo.
 
 <!---
 martinarobyculasso/martinarobyculasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
